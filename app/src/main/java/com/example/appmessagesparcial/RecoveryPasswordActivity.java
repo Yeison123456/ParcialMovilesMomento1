@@ -13,8 +13,7 @@ import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-
-import com.example.appmessagesflash.LoginActivity;import java.util.regex.Pattern;
+import java.util.regex.Pattern;
 
 public class RecoveryPasswordActivity extends AppCompatActivity {
 

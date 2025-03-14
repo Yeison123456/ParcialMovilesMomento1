@@ -9,7 +9,8 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
-import androidx.appcompat.app.AppCompatActivity;import com.example.appmessagesflash.LoginActivity;import com.example.appmessagesflash.RegisterActivity;
+import androidx.appcompat.app.AppCompatActivity;
+
 
 public class HomeActivity extends AppCompatActivity {
 
