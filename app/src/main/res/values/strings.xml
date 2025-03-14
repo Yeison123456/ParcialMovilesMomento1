@@ -1,0 +1,33 @@
+<resources>
+    <string name="appName">Messages</string>
+    <string name="nameCreater">Yeison David Rodriguez Rodriguez</string>
+    <string name="textRegisterHome">Regístrate</string>
+    <string name="textRegister">Regístrar</string>
+    <string name="textRecoveryPassword">Recuperar</string>
+    <string name="textBeginHome">Comienza</string>
+    <string name="textSignInLogin">Ingresar</string>
+    <string name="textRecoverPasswordLogin">Recuperar Tu Contraseña</string>
+    <string name="textWelcomeHome">Inicia una nueva aventura con Messages y descubre una nueva forma de ver el mundo</string>
+    <string name="textWelcomeLogin">La aventura está por iniciar, por favor inicia sesión</string>
+    <string name="textGoogleLogin">Ingresa con Google</string>
+    <string name="textNoCountLogin">¿No tienes cuenta?</string>
+    <string name="textYesCountRegister">¿Ya tienes cuenta?</string>
+    <string name="textInstructiveRegister">Rellena los siguientes datos</string>
+    <string name="textConfirmPasswordRegister">Confirmar contraseña</string>
+    <string name="textPasswordRegister">Contraseña</string>
+    <string name="textPhoneRegister">Telefono</string>
+    <string name="textEmailRegister">Email</string>
+    <string name="textLastNameRegister">Apellidos</string>
+    <string name="textNameRegister">Nombres</string>
+    <string name="textTermsRegister">Acepto los términos y condiciones</string>
+    <string name="textInstruvtiveRecoveryPassword">Por favor digitar correo electronico para la recuperación de la contraseña</string>
+    <string name="textProfile">Editar</string>
+    <string name="textGoBack">Regresar</string>
+    <string name="textCalculator">Calculadora huella hibrida</string>
+    <string name="textTitleCalculator">Calculadora huella hibrida</string>
+    <string name="textDirectConsumption">Consumo directo de agua (Litros)</string>
+    <string name="textTypeDiet">Tipo de dieta</string>
+    <string name="textConsumptionFood">Fecuencia de consumo de alimentos (alta, media, baja)</string>
+    <string name="textConsumptionHabits">Habitos de consumo</string>
+    <string name="textEnterData">Registrar datos</string>
+</resources>
